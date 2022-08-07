@@ -1,3 +1,5 @@
+#This script takes the info from the ' 1ubq.pdb ' file and gives the  residue list, protein name, 
+#coordinates of the residues and the atoms associated with the molecule.
 class Atom():
     def __init__(self, boluk):
         self.atomName = boluk[2]
