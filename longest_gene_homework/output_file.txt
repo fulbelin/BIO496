@@ -1,0 +1,3 @@
+1- Average number of exons in the transcriptome :11.590909090909092
+4-The longest gene in the plus strand:ENSG00000118473
+5-The longest gene in the negative strand:ENSG00000142856
